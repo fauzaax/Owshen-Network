@@ -8,7 +8,9 @@ Have not VPS yet ?
 + Create workspace
 + Paste these command below : 
 sudo apt update
+
 sudo apt install libfuse2
+
 sudo apt install fuse
 
 wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
